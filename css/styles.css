@@ -14,7 +14,7 @@ div.panel-body ol {
     height: 60px;
     width: 60px;
     background-color: #abcbe0;
-    dislay: inline-block;
+    display: inline-block;
     margin: 3px;
     cursor: pointer;
     line-height: 60px;
